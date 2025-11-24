@@ -1,3 +1,5 @@
+8179bd9 Fixup: Adding code change for Task 1.1
+4d97bcc Docs: Final update to log.txt with fixup commits
 9109769 Fixup: Adding code change for Task 2.1
 30efa43  Task 2.4
 4c16a1c Fixup: Adding missing log entry for Task 2.4
