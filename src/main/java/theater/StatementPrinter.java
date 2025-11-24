@@ -101,3 +101,4 @@ public class StatementPrinter {
         return result;
     }
 }
+// Marker comment for Task 2.1
