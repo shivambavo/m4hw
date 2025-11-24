@@ -1,3 +1,13 @@
+9109769 Fixup: Adding code change for Task 2.1
+30efa43  Task 2.4
+4c16a1c Fixup: Adding missing log entry for Task 2.4
+37c9f4e Fixup: Adding missing log entry for Task 2.3
+4bc20b7 Fixup: Adding missing log entry for Task 2.2
+df4f674 Fixup: Adding missing log entry for Task 2.1
+5cd115b Refactor: Separate total calculations into own methods (Task 2.4)
+449ccc5 Refactor: Create usd helper method (Task 2.3)
+d5c2d23 Refactor: Extract volume credits calculation (Task 2.2)
+6ae0918 Refactor: Extract getAmount method (Task 2.1)
 035f0ea Docs: Update log for Task 1.2
 4597925 checksytle stuff
 b0e67f4 Initial commit
